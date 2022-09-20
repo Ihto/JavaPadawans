@@ -117,4 +117,14 @@ Hint: Use a Hashmap<String, Integer>
 - Use this method to calculate the price of an apple and the price of a bottle of vine.
 - Use constants to save the different tax values.
 
+### 5.1 Prime checker
+- Create a method "isPrime" that takes an integer as input.
+- Check if the number is a prime number and return true or false.
+- Ask the user for input and call the method
 
+### 5.2 Greatest common divisor (advanced)
+- https://en.wikipedia.org/wiki/Greatest_common_divisor
+- Calculate the greatest common divisor using prime factorisation
+- Do the same using Euclid's algorithm
+
+## 
