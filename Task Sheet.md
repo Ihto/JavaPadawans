@@ -42,7 +42,6 @@ Write your first program.
 
 ### 2.0 Personal Greeting
 
-
 Hint: use if ... else
 
 - Create a java class with the name "PersonalGreeting" in the module conditions.
@@ -67,19 +66,53 @@ Hint: use switch ... case
 - The program checks the password for multiple users and displays a message if the password is correct or not.
 - If the user is not known display "The user is unknown."
 
-## 3 Methods
-
-### 3.0 Supermarket
-
-- Create a java class with the name "Supermarket" in the module supermarket.
-- Create a public static method called "calculateGrossPrice" that takes the net price and the tax rate and returns the gross price.
-- Use this method to calculate the price of an apple and the price of a bottle of vine.
-
-### 3.1 Recursive Fibonacci (advanced)
+### 2.3 Recursive Fibonacci (advanced)
 
 Hint: Recursive methods call them self. It is always important to have an interrupt condition using recursive calls.
 
 - The Fibonacci series is a series in which each number is the sum of the previous two numbers. Example: 1, 1, 2, 3, 5, 8, 13, 21, ...
 - Create an executable program that takes a number and returns the Fibonacci number at this position using a recursive method.
 - Think about why this recursive call can be problematic.
+
+## 3 Loops
+
+### 3.1 Article List
+
+### 3.2 User selection
+
+## 4 Repetition day one
+
+### 4.1 Calculator
+
+- Create a calculator application that allows the user to put in two numbers and either a + or - operation.
+- (advanced) Also implement the * and / operators.
+
+### 4.2 Todo list
+
+- Create a todo list app.
+- The User is able to add points to the list, remove points from the list or show the list.
+
+### 4.3 Number search
+
+- Create an Arraylist containing 5 different Integer values.
+- Ask the user for a number x.
+- Find the x highest number in the ArrayList.
+
+### 4.4 shopping list (advanced)
+
+Hint: Use a Hashmap<String, Integer>
+
+- Create a shopping list app.
+- The User can add items to the list
+- The shopping list also contains the amount for each item
+
+## 5 Methods
+
+### 5.0 Supermarket
+
+- Create a java class with the name "Supermarket" in the module supermarket.
+- Create a public static method called "calculateGrossPrice" that takes the net price and the tax rate and returns the gross price.
+- Use this method to calculate the price of an apple and the price of a bottle of vine.
+- Use constants to save the different tax values.
+
 
