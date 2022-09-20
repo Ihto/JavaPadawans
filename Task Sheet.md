@@ -103,7 +103,9 @@ Hint: Recursive methods call them self. It is always important to have an interr
 Hint: Use a Hashmap<String, Integer>
 
 - Create a shopping list app.
-- The User can add items to the list
+- The user can add items to the list
+- The user can delete items from the list
+- The user can show the items on the list with the amount for each item
 - The shopping list also contains the amount for each item
 
 ## 5 Methods
