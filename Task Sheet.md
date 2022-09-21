@@ -128,3 +128,8 @@ Hint: Use a Hashmap<String, Integer>
 - Do the same using Euclid's algorithm
 
 ## 
+### 5.3 Oktoberfest
+-Create a java class with name "Tent" in module wiesen. The tent should contain information about tables, people in the tent, drinks menu, food menu. 
+For each Tent you should calculate how many people are in the tent, and don't allow more people than maximum capacity, how much drink they drink in one day, what is the profit of the tent in one day.
+-Create a java class with name "Oktoberfest" in the module wiesen.In this class you should create some instances of Tent objects.
+Print information about the tents.
