@@ -127,9 +127,37 @@ Hint: Use a Hashmap<String, Integer>
 - Calculate the greatest common divisor using prime factorisation
 - Do the same using Euclid's algorithm
 
-## 
 ### 5.3 Oktoberfest
 - Create a java class with name "Tent" in module party. The tent should contain information about tables, people in the tent, drinks menu, food menu. 
 For each Tent you should calculate how many people are in the tent, and don't allow more people than maximum capacity, how much drinks they drink in one day in total, what is the profit of the tent in one day.
 - Create a java class with name "Oktoberfest" in the module party. In this class you should create some instances of Tent objects.
 Print information about the tents(Ex: total sum of people in all instantiated tents in one day).
+
+## 6 Inheritance
+
+### 6.1 Shapes
+- Create the classes "Shape", "Rectangle", "Triangle", "Circle" and "Square".
+- Shape should be abstract and contain the abstract method calculateSurface()
+
+## 7 Teamwork
+
+You will now work in teams of two. The main goal is that the whole team always has the same understanding of what you are doing and why.
+The second goal is to finish your task.
+For all projects do the following steps:
+- Think about how you can display the game board on the command
+- Think about how the user input should work
+
+### 7.1 2048
+- Code the game 2048 on the commandline https://en.wikipedia.org/wiki/2048_(video_game)
+
+### 7.2 Connect Four
+- Code the game connect four https://en.wikipedia.org/wiki/Connect_Four
+
+### 7.3 Tic Tac Toe
+- Code the game Tic Tac Toe https://en.wikipedia.org/wiki/Tic-tac-toe
+
+### 7.4 Code Minesweeper (advanced)
+- Code the game minesweeper https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+
+### 7.5 Code Blackjack (advanced)
+- Code the game blackjack https://en.wikipedia.org/wiki/Blackjack
