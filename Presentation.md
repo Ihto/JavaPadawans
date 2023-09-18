@@ -1,4 +1,4 @@
-# Java Padawans 2022
+# Java Padawans 2023
 
 Welcome to one week of sweat and pain.
 
@@ -6,6 +6,6 @@ Welcome to one week of sweat and pain.
 
 | Delia Bontescu                       | Markus Niewöhner    |
 |--------------------------------------|---------------------|
-| 4,5 Years at NTT Data                | 5 Years at NTT Data |
+| 5,5 Years at NTT Data                | 6 Years at NTT Data |
 | 9 years Java Projects                | Software developer  |
 | Technical Consultant/System Engineer |                     |
