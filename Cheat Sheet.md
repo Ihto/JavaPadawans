@@ -191,12 +191,12 @@ Instead of an arrayName you can also use any kind of collection.
 
 ### Access Modifiers
 
-| Class       | Package | Subclass | (same pkg) | Subclass (diff pkg) | World |
-|-------------|---------|----------|------------|---------------------|-------|
-| public      | +       | +        | +          | +                   | +     |
-| protected   | +       | +        | +          | +                   |       |
-| no modifier | +       | +        | +          |                     |       |		
-| private     | +       |          |            |                     |       |
+| Modifiers   | Class | Package | Subclass (same pkg) | Subclass (diff pkg) | World |
+|-------------|-------|---------|---------------------|---------------------|-------|
+| public      | +     | +       | +                   | +                   | +     |
+| protected   | +     | +       | +                   | +                   |       |
+| no modifier | +     | +       | +                   |                     |       |		
+| private     | +     |         |                     |                     |       |
 
 ### Methods
 
